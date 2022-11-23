@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techomanx
-- 👀 I’m interested in trying out programming features that fixate my mind as cat pouncing upon woolen balls 
-- 🌱 I’m currently learning python numpy and matlibplot 
+- 👀 I’m interested in trying out programming features that fixate my mind as cat pouncing upon woollen balls 
+- 🌱 I’m currently learning  numpy and matlibplot, one lib at a time... will get there...
 - 💞️ I’m looking to collaborate on how to keep oneself distraction free !
 - 📫 How to reach me twitter @techmanx
 
