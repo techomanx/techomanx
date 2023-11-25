@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning  numpy and matlibplot, one lib at a time... will get there...
 - 💞️ finding ways to keep oneself distraction free !
 - ![centre](https://user-images.githubusercontent.com/32428836/203543887-a2d821a1-472c-4b46-98d4-554973c41ed3.svg)
-- 📫 How to reach me twitter @techmanx
+- 📫 How to reach me X @techmanx
 
 <!---
 techomanx/techomanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
